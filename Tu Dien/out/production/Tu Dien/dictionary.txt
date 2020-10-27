@@ -1,0 +1,579 @@
+action /'ækʃn / hành động
+add /æd / cộng, thêm vào
+address /ə'dres / địa chỉ
+afternoon /'ɑ:ftə'nu:n / buổi chiều
+age /eidʤ / tuổi
+air /eə / không khí
+airport /'eəpɔ:t / sân bay
+animal /'æniməl / động vật
+answer /'ɑ:nsə / trả lời
+apartment /ə'pɑ:tmənt / căn phòng
+apple /'æpl / quả táo
+april /'eiprəl / tháng Tư
+area /'eəriə / diện tích
+arm /ɑ:m / cánh tay
+army /'ɑ:mi / quân đội
+art /ɑ:t / nghệ thuật
+artist /'ɑ:tist / nghệ sĩ
+ask /ɑ:sk / hỏi
+august /'ɔ:gəst / /ɔ:'gʌst / tháng Tám
+autumn /'ɔ:təm / mùa thu
+bad /bæd / xấu
+bag /bæg / túi, cặp xách
+ball /bɔ:l / quả bóng
+bathroom /ˈbɑːθˌruːm / nhà tắm
+beach /bi:tʃ / bãi biển
+bear /beə / con gấu
+beautiful /'bju:təful / đẹp
+because /bi'kɔz / bởi vì
+bedroom /'bedrum / phòng ngủ
+beef /bi:f / thịt bò
+beer /bi:ə / bia
+bicycle /'baisikl / xe đạp
+big /big / to, lớn
+bird /bə:d / chim
+birthday /'bə:θdei / ngày sinh, sinh nhật
+black /blæk / màu đen
+blood /blʌd / máu
+blue /blu: / màu xanh
+boat /bout / tàu, thuyền
+book /buk / sách
+box /bɔks / hộp, thùng
+boy /bɔi / con trai
+bread /bred / bánh mỳ
+brother /'brΔðз / anh, em trai
+brown /braun / màu nâu
+build /bild / xây dựng
+burn /bə:n / đốt
+bus /bʌs / xe buýt
+busy /´bizi / bận rộn
+buy /bai / mua
+bye /bai / tạm biệt
+cake /keik / bánh ngọt
+call /kɔ:l / gọi
+camera /kæmərə / máy ảnh
+candy /´kændi / kẹo
+cap /kæp / mũ lưỡi trai
+car /kɑ: / xe hơi
+carrot /´kærət / cà rốt
+cat /kæt / con mèo
+chair /tʃeə / ghế
+chapter /'t∫æptə(r) / chương sách
+chat /tʃæt / nói chuyện, tán gẫu
+cheese /tʃi:z / pho mát
+chicken /ˈtʃɪkin / con gà
+child /tʃaild / đứa bé, đứa trẻ
+cinema /ˈsɪnəmə / rạp chiếu phim
+circle /'sə:kl / đường tròn, hình tròn
+city /'si:ti / thành phố
+classroom /'klα:si / lớp học, phòng học
+clock /klɔk / đồng hồ
+clothes /klouðz / quần áo
+cloud /klaud / mây, đám mây
+cold /kould / lạnh
+colour /'kʌlə / màu sắc
+company /´kʌmpəni / công ty
+cook /kʊk / nấu ăn
+cool /ku:l / mát mẻ
+count /kaunt / đếm, tính
+country /ˈkʌntri / quốc gia, đất nước
+couple /'kʌpl / cặp đôi
+cousin /ˈkʌzən / anh em họ
+cow /kaʊ / con bò cái
+cream /kri:m / kem
+create /kri:'eit / sáng tạo, tạo nên
+cup /kʌp / tách, chén
+cut /kʌt / cắt
+dad /dæd / bố, cha
+dance /dɑ:ns / sự nhảy múa, sự khiêu vũ; nhảy múa, khiêu vũ
+dangerous /´deindʒərəs / nguy hiểm
+dark /dɑ:k / tối, tối tăm; bóng tối, ám muội
+date /deit / ngày, kỳ, kỳ hạn, thời kỳ, thời đại; đề ngày tháng, ghi niên hiệu
+daughter /ˈdɔtər / con gái
+day /dei / ngày, ban ngày
+December /di'sembə / tháng mười hai, tháng Chạp
+delay /dɪˈleɪ / sự chậm trễ, sự trì hoãn, sự cản trở; làm chậm trễ
+dentist /'dentist / nha sĩ
+design /di´zain / sự thiết kế, kế hoạch, đề cương. phác thảo; phác họa, thiết kế
+desk /desk / bàn làm việc
+destroy /dis'trɔi / phá, phá hoại, phá huỷ, tiêu diệt,triệt phá
+dictionary /'dikʃənəri / từ điển
+different /'difrзnt / khác, khác biệt, khác nhau
+difficult /'difik(ə)lt / khó, khó khăn, gay go
+dinner /'dinə / bữa trưa, chiều
+disappear /disə'piə / biến mất, biến đi
+dish /diʃ / đĩa đựng thức ăn
+disk /disk / đĩa hát
+doctor /'dɔktə / bác sĩ y khoa, tiến sĩ
+dog /dɔg / chó
+door /dɔ: / cửa, cửa ra vào
+down /daun / tải
+drama /drɑːmə / kịch, tuồng
+draw /dro: / vẽ, kéo
+dream /dri:m / giấc mơ, mơ
+dress /dres / quần áo, mặc (quần áo), ăn mặc
+drink /driɳk / đồ uống; uống
+drive /draiv / lái , đua xe; cuộc đua xe (điều khiển)
+drunk /drʌŋk / say rượu
+ear /iə / tai
+earth /ə:θ / đất, trái đất
+east /i:st / hướng đông, phía đông, (thuộc) đông, ở phía đông
+easy /'i:zi / dễ dàng, dễ tính, ung dung
+eat /i:t / ăn
+egg /eg / trứng
+electric /ɪˈlɛktrɪk / (thuộc) điện, có điện, phát điện
+email /'imeil / thư điện tử; gửi thư điện tử
+enemy /'enəmi / kẻ thù, quân địch
+energy /ˈɛnərdʒi / năng lượng
+engineer /endʒi'niər / kỹ sư
+error /'erə / lỗi, sự sai sót, sai lầm
+evening /'i:vniɳ / buổi chiều, tối
+event /i'vent / sự việc, sự kiện
+evil /'i:vl / xấu, ác; điều xấu, điều ác, điều tai hại
+exact /ig´zækt / chính xác, đúng
+exactly /ig´zæktli / chính xác, đúng đắn
+example /ig´za:mp(ə)l / thí dụ, ví dụ
+exit /´egzit / lỗi ra, sự đi ra, thoát ra
+expensive /iks'pensiv / đắt
+explain /iks'plein / giải nghĩa, giải thích
+eye /ai / mắt
+face /feis / mặt, thể diện; đương đầu, đối phó, đối mặt
+fall /fɔl / rơi, ngã, sự rơi, ngã
+false /fo:ls / sai
+famous /'feiməs / nổi tiếng
+fan /fæn / người hâm mộ
+far /fɑ: / xa
+farm /fa:m / trang trại
+fashion /'fæ∫ən / mốt, thời trang
+fast /fa:st / nhanh
+fat /fæt / béo, béo bở; mỡ, chất béo
+father /'fɑ:ðə / cha (bố)
+February /´februəri / tháng 2
+feed /fid / cho ăn, nuôi
+feel /fi:l / cảm thấy
+festival /'festivəl / lễ hội
+file /fail / hồ sơ, tài liệu
+film /film / phim
+find /faind / tìm, tìm thấy
+fine /fain / tốt, giỏi
+finish /'fini∫ / kết thúc, hoàn thành
+fire /'faiə / lửa
+first /fə:st / thứ nhất, đầu tiên
+fish /fɪʃ / con cá
+fix /fiks / sửa chữa
+floor /flɔ: / sàn nhà, tầng nhà
+flour /´flauə / bột mỳ
+flower /'flauə / bông hoa
+fly /flaɪ / bay
+food /fu:d / đồ ăn
+foot /fut / chân, bàn chân
+football /ˈfʊtˌbɔl / bóng đá
+forest /'forist / rừng
+forever /fə'revə / mãi mãi
+forget /fə'get / quên
+free /fri: / miễn phí
+Friday /´fraidi / thứ Sáu
+fridge /fridЗ / tủ lạnh
+friend /frend / người bạn
+front /frʌnt / đằng trước, phía trước
+fruit /fru:t / quả, trái cây
+full /ful / đầy, đầy đủ
+funny /´fʌni / buồn cười, khôi hài
+future /'fju:tʃə / tương lai
+game /geim / trò chơi
+garage /´gæra:ʒ / nhà để ô tô
+garden /'gɑ:dn / vườn
+gas /gæs / khí, hơi đốt
+gift /gift / quà tặng
+girl /g3:l / con gái
+give /giv / cho, biếu, tặng
+glass /glɑ:s / kính, thủy tinh
+global v /´gloubl / toàn cầu, toàn thể, toàn bộ
+god /gɒd / thần, Chúa
+gold /goʊld / vàng
+good /gud / tốt, khỏe
+goodbye /¸gud´bai / tạm biệt
+granddaughter /'græn,do:tз / cháu gái
+grandfather /´græn¸fa:ðə / ông
+grandmother /'græn,mʌðə / bà
+gray /grei / màu xám
+green /grin / xanh lá cây
+group /gru:p / nhóm
+grow /grou / mọc, mọc lên
+guard /ga:d / người bảo vệ
+guess /ges / đoán, phỏng đoán
+guest /gest / khách, khách mời
+gun /gʌn / súng
+hair /heə / tóc
+half /hɑ:f / một nửa
+hammer /'hæmə / búa
+hand /hænd / tay, bàn tay
+happy /ˈhæpi / vui sướng, hạnh phúc
+hard /ha:d / khó
+hat /hæt / cái mũ
+head /hed / cái đầu
+healthy /'helθi / khỏe mạnh, lành mạnh
+hear /hiə / nghe
+heart /hɑ:t / tim, trái tim
+heavy /'hevi / nặng, nặng nề
+height /hait / chiều cao, độ cao
+hell /hel / địa ngục
+hello /hз'lou / chào, xin chào
+help /'help / giúp đỡ
+here /hiə / đây, ở đây
+hero /'hiərou / người anh hùng
+high /hai / cao
+history /´histəri / lịch sử, sử học
+hit /hit / đánh, đấm
+holiday /'hɔlədi / ngày lễ, ngày nghỉ
+home /hoʊm / nhà
+homework /´houm¸wə:k / bài tập về nhà
+hope /houp / hy vọng
+horse /hɔrs / ngựa
+hospital /'hɔspitl / bệnh viện, nhà thương
+hot /hɒt / nóng, nóng bức
+hotel /hou´tel / khách sạn
+hour /'auз / giờ
+house /haus / ngôi nhà
+hungry /'hΔŋgri / đói
+hunt /hʌnt / săn, đi săn
+husband /´hʌzbənd / người chồng
+ice /ais / băng, nước đá
+idea /ai'diз / ý tưởng
+ill /il / ốm
+image /´imidʒ / ảnh, hình ảnh
+include /in'klu:d / bao gồm, tính cả
+index /'indeks / chỉ số, sự biểu thị
+ink /iηk / mực
+insect /'insekt / sâu bọ, côn trùng
+insert /'insə:t / chèn vào, lồng vào
+international /intə'næʃən(ə)l / quốc tế
+invent /in'vent / phát minh, sáng chế
+invite /in'vait / mời
+iron /aɪən / sắt
+island /´ailənd / hòn đảo
+jacket /'dʤækit / áo vét
+January /'ʤænjuəri / tháng giêng
+jeans /dЗeins / quần bò, quần zin
+job /dʒɔb / công việc
+join /ʤɔin / gia nhập, tham gia
+joke /dʒouk / trò cười
+juice /ʤu:s / nước ép
+July /dʒu´lai / tháng 7
+jump /dʒʌmp / nhảy
+June /dЗu:n / tháng 6
+keep /ki:p / giữ, giữ lại
+key /ki: / chìa khóa
+keyboard /'ki:bɔ:d / bàn phím
+kick /kick / đá
+kill /kil / giết
+kind /kaind / tử tế
+king /kiɳ / vua
+kiss /kis / hôn, cái hôn
+kitchen /´kitʃin / bếp
+knife /naif / con dao
+knock /nɔk / cú đánh
+know /nou / biết
+lady /ˈleɪdi / quý bà, tiểu thư
+lake /leik / hồ
+lamp /læmp / đèn
+land /lænd / đất, đất đai
+language /ˈlæŋgwɪdʒ / ngôn ngữ
+large /la:dʒ / rộng, lớn, to
+last /lɑ:st / lầm cuối, sau cùng
+late /leit / trễ, muộn
+lawyer /ˈlɔyər / /ˈlɔɪər / luật sư
+lazy /'leizi / lười biếng
+leaf /li:f / lá cây
+league /li:g / liên minh
+learn / lə:n / học, nghiên cứu
+leave /li:v / bỏ đi, rời đi
+left /left / bên trái
+leg /´leg / bàn chân
+lemon /´lemən / quả chanh
+length /leɳθ / chiều dài, độ dài
+lesson /'lesn / bài học
+letter /'letə / bức thư
+level /'levl / trình độ
+library /'laibrəri / thư viện
+lie /lai / nói dối
+life /laif / đời, sự sống
+light /lait / ánh sáng
+like /laik / thích
+link /lɪɳk / liên kết, kết nối
+lip /lip / môi
+list /list / danh sách
+listen /'lisn / nghe, lắng nghe
+live /liv / sống
+lock /lɔk / khóa
+long /lɔɳ / dài, xa
+look /luk / nhìn
+love /lʌv / tình yêu
+lucky /'lʌki / may mắn, hạnh phúc
+lunch /lʌntʃ / bữa ăn trưa
+machine /mə'ʃi:n / máy móc
+magazine /,mægə'zi:n / tạp chí
+magic /'mæʤik / ma thuật, ảo thuật
+mail /meil / thư từ, bưu kiện
+main /mein / chính, chủ yếu
+make /meik / làm, chế tạo
+man /mæn / con người; đàn ông
+manager /ˈmænɪdʒər / người quản lý, giám đốc
+map /mæp / bản đồ
+March /mɑ:tʃ / tháng ba
+market /'mɑ:kit / chợ
+married /´mærid / cưới, kết hôn
+maximum /´mæksiməm / cực độ, tối đa
+May /mei / tháng 5
+mayor /mɛə / thị trưởng
+mean /mi:n / nghĩa, có nghĩa là
+meat /mi:t / thịt
+media /´mi:diə / phương tiện truyền thông đại chúng
+meet /mi:t / gặp, gặp gỡ
+member /'membə / thành viên, hội viên
+memory /'meməri / bộ nhớ, trí nhớ
+menu /'menju / thực đơn
+message /ˈmɛsɪdʒ / tin nhắn
+method /'meθəd / phương pháp, cách thức
+milk /milk / sữa
+minute /'minit / phút
+mirror /ˈmɪrər / gương
+miss /mis / lỡ, trượt
+Monday /'mʌndi / thứ 2
+money /'mʌni / tiền
+month /mʌnθ / tháng
+moon /mu:n / mặt trăng
+morning /'mɔ:niɳ / buổi sáng
+mother /'mΔðз / mẹ
+mountain /ˈmaʊntən / núi
+mouse /maus - mauz / chuột
+move /mu:v / di chuyển
+movie /´mu:vi / phim
+multiply /'mʌltiplai / nhân lên
+museum /mju:´ziəm / bảo tàng
+music /'mju:zik / âm nhạc
+name /neim / tên
+nation /'nei∫n / quốc gia
+nature /'neitʃə / tự nhiên, thiên nhiên
+neighbour /'neibə / hàng xóm
+network /'netwə:k / mạng lưới, hệ thống
+new /nju: / mới
+news /nju:z / tin, tin tức
+newspaper /'nju:zpeipə / báo
+nice /nais / đẹp
+night /nait / đêm, tối
+noisy /´nɔizi / ồn ào, huyên náo
+normal /'nɔ:məl / thường, bình thường
+north /nɔ:θ / phía bắc
+note /nout / ghi chú, ghi chép
+notice /'nəƱtis / thông báo
+November /nou´vembə / tháng 11
+number /´nʌmbə / số
+nurse /nə:s / y tá
+object /əbˈdʒɛkt / vật, đối tượng
+ocean /'əuʃ(ə)n / đại dương
+October /ɔk´toubə / tháng 10
+odd /ɔd / số lẻ
+off /ɔ:f / tắt
+office /'ɔfis / cơ quan, văn phòng
+oil /ɔɪl / dầu
+old /ould / già
+one /wʌn / số một
+onion /ˈʌnjən / củ hành
+open /'oupən / mở
+orange /ɒrɪndʒ / màu cam, quả cam
+other /ˈʌðər / khác
+out /aut /  ra ngoài
+outside /'aut'said / bề ngoài, bên ngoài
+page /peidʒ / trang sách
+pair /pɛə / đôi, cặp
+pan /pæn / /pɑ:n / xoong, chảo
+paper /´peipə / giấy
+parent /'peərənt / cha, mẹ
+park /pa:k / công viên
+party /ˈpɑrti / tiệc, buổi liên hoan
+pause /pɔ:z / dừng
+pay /pei / thanh toán
+pen /pen / bút
+pencil /´pensil / bút chì
+people /ˈpipəl / người
+person /ˈpɜrsən / con người, người
+pet /pet / thú cưng
+picture /'piktʃə / bức vẽ, bức họa
+pig /pig / con lợn
+pink /piηk / màu hồng
+place /pleis / nơi, địa điểm
+play /plei / chơi, đánh
+police /pə'li:s / cảnh sát, công an
+post office /'ɔfis / bưu điện
+potato /pə'teitou / khoai tây
+power /ˈpauə(r) / sức mạnh
+price /prais / giá
+print /print / in, xuất bản
+private /ˈpraɪvɪt / cá nhân, riêng
+problem /'prɔbləm / vấn đề
+product /´prɔdʌkt / sản phẩm
+program /´prougræm / chương trình
+project /prəˈdʒɛkt / đề án, dự án
+public /'pʌblik / chung, công cộng
+push /puʃ / đẩy
+put /put / đặt, để, cho vào
+quarter /'kwɔ:tə / 1/4, 15 phút
+queen /kwi:n / nữ hoàng
+question /ˈkwɛstʃən / câu hỏi
+quick /kwik / nhanh
+quiet /'kwaiət / yên lặng, yên tĩnh
+quit /kwit / thoát, thoát ra
+radio /´reidiou / sóng vô tuyến, radio
+rain /rein / mưa, cơn mưa
+rank /ræɳk / thứ hạng
+read /ri:d / đọc
+ready /'redi / sẵn sàng
+red /red / đỏ; màu đỏ
+remove /ri'mu:v / dời đi
+repair /ri'peə / sửa chữa
+reply /ri'plai / trả lời, hồi âm
+report /ri'pɔ:t / báo cáo
+restaurant /´restərɔn / nhà hàng
+result /ri'zʌlt / kết quả
+rice /raɪs / gạo, cơm
+rich /ritʃ / giàu có
+ride /raid / đi, cưỡi
+right /rait /  đúng
+ring /riɳ / chiếc nhẫn
+river /'rivə / sông
+road /roʊd / con đường, đường phố
+rubbish /ˈrʌbɪʃ / rác
+ruler /´ru:lə / thước kẻ
+run /rʌn / chạy
+sad /sæd / buồn, buồn bã
+salt /sɔ:lt / muối
+sand /sænd / cát
+Saturday /'sætədi / thứ 7
+school /sku:l / trường học
+sea /si: / biển
+search /sə:t∫ / tìm kiếm
+season /´si:zən / mùa
+second /ˈsɛkənd / ở vị trí thứ 2
+see /si: / nhìn
+send /send / gửi
+September /sep´tembə / tháng 9
+sheep /ʃi:p / con cừu
+ship /ʃɪp / tàu, tàu thủy
+shirt /ʃɜːt / áo sơ mi
+shoe /ʃu: / giày
+shop /ʃɔp / cửa hàng
+short /ʃɔ:t / ngắn
+silver /'silvə / bạc
+sing /siɳ / ca hát
+sister /'sistə / chị, em gái
+sit /sit / ngồi
+size /saiz / c
+sky /skaɪ / trời, bầu trời
+sleep /sli:p / ngủ
+slow /slou / chậm, chậm chạp
+small /smɔ:l / nhỏ, bé
+smell /smɛl / ngửi
+smile /smail / nụ cười
+smoke /smouk / khói, hút thuốc
+snake /sneik / con rắn
+snow /snou / tuyết
+song /sɔɳ / bài hát
+sound /sound / âm thanh
+south /sauθ / phía Nam
+speed /spi:d / tốc độ
+spider /´spaidə / con nhện
+sport /spɔ:t / thể thao
+spring /sprɪŋ / mùa xuân
+star /stɑ: / ngôi sao
+start /stɑ:t / bắt đầu
+stop /stɔp / dừng lại
+store /stɔ: / cửa hàng
+street /stri:t / phố, đường phố
+strong /strɔŋ , strɒŋ / khỏe mạnh
+student /'stju:dnt / sinh viên
+studio /´stju:diou / phòng thu
+study /'stʌdi / học tập
+sugar /'ʃugə / đường
+sum /sʌm / tổng
+summer /ˈsʌmər / mùa hè
+sun /sʌn / mặt trời
+Sunday /´sʌndi / Chủ nhật
+swim /swim / bơi lội
+table /'teibl / cái bàn
+talk /tɔ:k / nói chuyện, trò chuyện
+tall /tɔ:l / cao
+taste , /teist / nếm
+teacher /'ti:t∫ə / giáo viên
+tell /tel / nói, nói với
+Thursday /´θə:zdi / thứ 5
+ticket /'tikit / vé
+timetable /´taimteibl / thời gian biểu
+tomato /tə´ma:tou / cà chua
+tongue /tʌη / lưỡi
+tooth /tu:θ / răng
+tower /'tauə / tháp
+town /taun / thị trấn
+train /trein / tàu hỏa
+translate /træns´leit / dịch
+transport /'trænspɔ:t / phương tiện
+travel /'trævl / đi du lịch
+tree /tri: / cây
+trend /trend / xu hướng
+true /tru: / đúng
+Tuesday /´tju:zdi / thứ 3
+turn /tə:n / quay, xoay
+type , /taip / loại, kiểu, mẫu
+ugly /'ʌgli / xấu xí, xấu xa
+uncle /ʌηkl / chú, bác
+undo /ʌn´du: / tháo, gỡ, xóa, hủy bỏ
+uniform /ˈjunəˌfɔrm / đồng phục
+unit /'ju:nit / đơn vị
+universe /'ju:nivə:s / vũ trụ
+university /¸ju:ni´və:siti / trường đại học
+use /ju:s / sử dụng, dùng
+user /´ju:zə / người dùng, người sử dụng
+vacation /və'kei∫n / kỳ nghỉ hè, kỳ nghỉ lễ
+vegetable /ˈvɛdʒtəbəl / rau,
+vehicle /'vi:hikl / xe cộ
+victory /'viktəri / chiến thắng
+video /'vidiou / video
+view /vju: / tầm nhìn
+visit /vizun / đi thăm hỏi
+vocabulary /və´kæbjuləri / từ vựng
+voice /vɔis / tiếng, giọng nói
+vote /voʊt / bỏ phiếu, bầu cử
+wait /weit / chờ đợi
+walk /wɔ:k / đi, đi bộ
+wall /wɔ:l / tường, vách
+war /wɔ: / chiến tranh
+warm /wɔ:m / ấm
+warn /wɔ:n / cảnh báo
+wash /wɒʃ , wɔʃ / rửa, giặt
+watch /wɔtʃ / nhìn, quan sát
+water /'wɔ:tə / nước
+weak /wi:k / yếu ớt
+weapon /'wepən / vũ khí
+wear /weə / mặc, mang, đeo
+weather /'weθə / thời tiết
+wedding /ˈwɛdɪŋ / lễ cưới, hôn lễ
+Wednesday /´wensdei / thứ 4
+west /west / phía Tây
+wet /wɛt / ướt, ẩm ướt
+white /wai:t / màu trắng
+wife /waif / vợ
+wind /wind / gió
+window /'windəʊ / cửa sổ
+winter /ˈwɪntər / mùa đông
+wood /wud / gỗ
+wool /wul / len
+word /wə:d / từ
+work /wɜ:k / làm việc
+world /wɜ:ld / thế giới
+write /rait / viết
+wrong /rɔɳ / sai
+year /jə: / năm
+yellow /'jelou / màu vàng
+yesterday , /'jestədei / hôm qua
+young /jʌɳ / trẻ
+zero /'ziərou / số không
